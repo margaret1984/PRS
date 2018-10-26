@@ -32,4 +32,4 @@ rm $inputfile.fam
 rm $tempfile.prune.out
 rm $tempfile.prune.in
 rm *.log
-######check check check 
+
